@@ -71,7 +71,7 @@
         <jersey.version>1.19</jersey.version>
         <druid.api.version>0.3.16</druid.api.version>
         <!-- Watch out for Hadoop compatibility when updating to >= 2.5; see https://github.com/druid-io/druid/pull/1669 -->
-        <jackson.version>2.4.6</jackson.version>
+        <jackson.version>2.18.11</jackson.version>
         <log4j.version>2.5</log4j.version>
         <slf4j.version>1.7.12</slf4j.version>
         <hadoop.compile.version>2.3.0</hadoop.compile.version>
